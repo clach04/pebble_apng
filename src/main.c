@@ -1,4 +1,3 @@
-/* Taken from https://developer.getpebble.com/guides/pebble-apps/resources/animated-pngs/#complete-example */
 /*
  * main.c
  * Sets up a Window, BitmapLayer and blank GBitmap to be used as the display
