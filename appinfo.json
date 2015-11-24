@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "clach04",
+    "longName": "apng_demo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/rings-02-june_120x90.png",
+                "name": "ANIMATION",
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "apng_demo",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1d7b1e35-3905-4fc8-9994-129d2c095ed7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
